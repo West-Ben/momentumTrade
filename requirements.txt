@@ -1,0 +1,5 @@
+yfinance==0.2.61
+logging==0.4.9.6
+alpaca-trade-api==3.2.0
+numpy==2.2.6
+alpaca-historical-extract==1.25.0
